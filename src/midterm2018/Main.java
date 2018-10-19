@@ -39,6 +39,6 @@ public class Main {
         // return unique words
 
         // Question 5
-        // return 3rd most common word
+        // return 2nd most common word
     }
 }
